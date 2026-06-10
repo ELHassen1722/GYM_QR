@@ -1,0 +1,30 @@
+id,machine_name,target_muscle,video_file,description
+1,Back Extension Machine,Back / Lower Back,back_extension.mp4,Adjust the pad to hip height. Lean forward smoothly and return to the starting position.
+2,Calf Raise Machine (Standing),Legs / Calves,calf_raise.mp4,"Place feet on the platform, raise your heels as high as possible, hold, then lower slowly."
+3,Seated Calf Raise Machine,Legs / Calves,calf_raise_alt.mp4,"Sit comfortably, secure the knee pad, and flex your calves through a full range of motion."
+4,Pec Deck / Chest Fly Machine,Chest,chest_fly.mp4,"Sit back, keep elbows slightly bent, and bring the handles together in a hugging motion."
+5,Cable Chest Fly (Variation),Chest,chest_fly_alt.mp4,"Stand between the cables, pull downward and inward to target the lower/inner chest fibers."
+6,Chest Press Machine,Chest,chest_press.mp4,Adjust seat so handles are at mid-chest level. Push forward forcefully and return slowly.
+7,Decline Chest Press Machine,Chest / Lower Chest,chest_press_alt.mp4,Seated press angled downward to target the lower region of the pectoral muscles.
+8,Hack Squat Machine,Legs / Quadriceps,hack_squat.mp4,Place feet shoulder-width apart on the platform. Lower your hips until thighs are parallel.
+9,Incline Chest Press Machine,Chest / Upper Chest,incline_chest_press_alt.mp4,Seated press angled upward to isolate and develop the upper portion of the chest.
+10,Lat Pulldown Machine,Back / Lats,lat_pulldown.mp4,"Sit under the pads, grip the bar wide, and pull down towards your upper chest while squeezing back."
+11,Wide-Grip Lat Pulldown,Back / Lats,lat_pulldown_alt.mp4,Alternative wide-grip variation focused on maximizing upper back and lat width.
+12,Lateral Raise Machine,Shoulders / Side Delts,lateral_raise.mp4,"Sit upright, press your outer arms against the pads, and raise them until parallel to the floor."
+13,Leg Extension Machine,Legs / Quadriceps,leg_extension.mp4,"Sit back, secure ankles behind pads, and extend legs fully to isolate the quads."
+14,Leg Press Machine,Legs / Thighs,leg_press.mp4,"Place feet on the sled, unlock the safety safety locks, lower slowly, and press upward."
+15,Seated Leg Press Variation,Legs / Thighs,leg_press_alt.mp4,Horizontal leg press variation providing stable back support and targeting overall legs.
+16,Cable Shrug Station,Back / Trapezius,male-cables-cable-30-degree-shrug-side.mp4,Hold the cable attachments and elevate your shoulders toward your ears to target upper traps.
+17,Preacher Curl Machine,Arms / Biceps,preacher_curl.mp4,"Rest arms flat on the pad, grip handles, and curl upwards while keeping elbows fixed."
+18,Reverse Pec Deck / Rear Delt,Shoulders / Rear Delts,rear_delt_fly.mp4,"Sit facing the machine pad, fly arms outward and backward to target posterior deltoids."
+19,Cable Rear Delt Fly Variation,Shoulders / Rear Delts,rear_delt_fly_alt.mp4,Cable variation focused on tension at the peak of the rear delt contraction.
+20,Seated Dip Machine,Arms / Triceps,seated_dip.mp4,"Sit facing outward, grip handles tightly, and push down to isolate the triceps."
+21,Assisted Dip Station,Triceps / Chest,seated_dip_alt.mp4,Counter-weighted dip station to assist with upper body compound push strength.
+22,Seated Row Machine,Back / Mid-Back,seated_row.mp4,"Sit tall, pull handles toward your abdomen, keeping elbows tucked close to your body."
+23,Cable Seated Row Variation,Back / Mid-Back,seated_row_alt.mp4,Cable row setup offering fluid resistance through the entire rowing motion.
+24,Seated Row Plate-Loaded,Back / Upper Back,seating_row.mp4,Heavy row variation designed to target mid-to-upper back thickness.
+25,Shoulder Press Machine,Shoulders / Front Delts,shoulder_press.mp4,"Adjust seat, grip handles, and press straight up to build total shoulder strength."
+26,T-Bar Row Machine,Back / Thickness,tbar_row.mp4,"Lean against the support pad, pull the handles up, squeezing the shoulder blades together."
+27,Supported T-Bar Row Alt,Back / Thickness,tbar_row_alt.mp4,Slightly altered grip angle version for isolating different segments of the mid-back.
+28,Triceps Extension Machine,Arms / Triceps,triceps_extension.mp4,Secure elbows on pad and extend arms downward/forward to isolate the triceps muscle.
+29,Cable Triceps Pushdown,Arms / Triceps,triceps_extension_alt.mp4,Classic cable station attachment using a bar or rope for intensive triceps stimulation.
